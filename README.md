@@ -4,12 +4,11 @@ Static website source for the published Calgary real-estate landing page.
 
 ## Run locally
 
-Open `dist/index.html` in a browser, or serve the project with any static-file server.
+Open `index.html` in a browser, or serve the project with any static-file server.
 
 ## Main files
 
-- `dist/index.html`: full landing page, styles, links and Motion animations.
-- `.openai/hosting.json`: hosting configuration used for the published version.
+- `index.html`: full landing page, styles, links and Motion animations.
 
 ## Integration note
 
